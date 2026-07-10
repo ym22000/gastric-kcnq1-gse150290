@@ -1,0 +1,25 @@
+KCNE3 metrics in gastric single-cell analysis
+
+Global non-immune t-SNE
+Cells: 13,022
+KCNE3-positive cells: 4,000
+% positive cells: 30.72%
+Total raw transcripts: 6,875
+Mean raw counts per cell: 0.528
+Median raw counts per cell: 0.000
+Mean raw counts in positive cells: 1.719
+Median raw counts in positive cells: 1.000
+Max raw count: 12
+Mean log-normalized expression: 0.320
+
+Tumor-only t-SNE
+Cells: 1,408
+KCNE3-positive cells: 109
+% positive cells: 7.74%
+Total raw transcripts: 139
+Mean raw counts per cell: 0.099
+Median raw counts per cell: 0.000
+Mean raw counts in positive cells: 1.275
+Median raw counts in positive cells: 1.000
+Max raw count: 4
+Mean log-normalized expression: 0.073

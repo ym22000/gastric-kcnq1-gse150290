@@ -1,0 +1,175 @@
+cluster	sample_title	tissue_group	n_cells
+0	Pat08-B	Cancer	98
+0	Pat12-B	Cancer	54
+0	Pat12-A	Adjacent normal	27
+0	Pat10-B	Cancer	24
+0	Pat10-A	Adjacent normal	12
+0	Pat08-A	Adjacent normal	11
+0	Pat11-B	Cancer	11
+0	Pat07-B	Cancer	9
+0	Pat05-A	Adjacent normal	8
+0	Pat05-B	Cancer	8
+0	Pat13-A	Adjacent normal	8
+0	Pat03-A	Adjacent normal	5
+0	Pat03-B	Cancer	5
+0	Pat02-B	Cancer	4
+0	Pat09-B	Cancer	4
+0	Pat20-A	Adjacent normal	4
+0	Pat15-B	Cancer	3
+0	Pat16-B	Cancer	3
+0	Pat21-A	Adjacent normal	3
+0	Pat02-A	Adjacent normal	2
+0	Pat04-A	Adjacent normal	2
+0	Pat04-B	Cancer	2
+0	Pat13-B	Cancer	2
+0	Pat16-A	Adjacent normal	2
+0	Pat24-B	Cancer	2
+0	Pat07-A	Adjacent normal	1
+0	Pat09-A	Adjacent normal	1
+0	Pat22-A	Adjacent normal	1
+0	Pat24-A	Adjacent normal	1
+1	Pat02-A	Adjacent normal	62
+1	Pat01-B	Cancer	49
+1	Pat02-B	Cancer	48
+1	Pat03-B	Cancer	36
+1	Pat16-A	Adjacent normal	11
+1	Pat23-A	Adjacent normal	7
+1	Pat03-A	Adjacent normal	5
+1	Pat17-B	Cancer	5
+1	Pat13-B	Cancer	4
+1	Pat19-B	Cancer	4
+1	Pat05-B	Cancer	3
+1	Pat16-B	Cancer	3
+1	Pat09-A	Adjacent normal	2
+1	Pat10-A	Adjacent normal	2
+1	Pat01-A	Adjacent normal	1
+1	Pat04-A	Adjacent normal	1
+1	Pat04-B	Cancer	1
+1	Pat08-B	Cancer	1
+1	Pat09-B	Cancer	1
+1	Pat11-B	Cancer	1
+1	Pat13-A	Adjacent normal	1
+1	Pat14-A	Adjacent normal	1
+1	Pat18-B	Cancer	1
+1	Pat20-B	Cancer	1
+1	Pat22-A	Adjacent normal	1
+2	Pat12-A	Adjacent normal	59
+2	Pat13-A	Adjacent normal	45
+2	Pat08-B	Cancer	31
+2	Pat20-A	Adjacent normal	16
+2	Pat08-A	Adjacent normal	15
+2	Pat12-B	Cancer	15
+2	Pat10-A	Adjacent normal	10
+2	Pat03-A	Adjacent normal	5
+2	Pat10-B	Cancer	5
+2	Pat05-A	Adjacent normal	3
+2	Pat02-A	Adjacent normal	2
+2	Pat05-B	Cancer	2
+2	Pat01-A	Adjacent normal	1
+2	Pat02-B	Cancer	1
+2	Pat03-B	Cancer	1
+2	Pat04-B	Cancer	1
+2	Pat07-B	Cancer	1
+2	Pat09-B	Cancer	1
+2	Pat11-A	Adjacent normal	1
+2	Pat11-B	Cancer	1
+2	Pat22-A	Adjacent normal	1
+2	Pat24-A	Adjacent normal	1
+2	Pat24-B	Cancer	1
+3	Pat13-A	Adjacent normal	43
+3	Pat12-A	Adjacent normal	38
+3	Pat10-A	Adjacent normal	28
+3	Pat08-A	Adjacent normal	26
+3	Pat10-B	Cancer	11
+3	Pat12-B	Cancer	8
+3	Pat01-B	Cancer	4
+3	Pat16-A	Adjacent normal	4
+3	Pat02-A	Adjacent normal	3
+3	Pat02-B	Cancer	3
+3	Pat03-A	Adjacent normal	3
+3	Pat20-A	Adjacent normal	3
+3	Pat03-B	Cancer	2
+3	Pat04-B	Cancer	2
+3	Pat05-A	Adjacent normal	2
+3	Pat04-A	Adjacent normal	1
+3	Pat05-B	Cancer	1
+3	Pat09-A	Adjacent normal	1
+3	Pat11-B	Cancer	1
+3	Pat14-A	Adjacent normal	1
+3	Pat16-B	Cancer	1
+3	Pat18-B	Cancer	1
+3	Pat21-A	Adjacent normal	1
+3	Pat23-A	Adjacent normal	1
+3	Pat24-B	Cancer	1
+4	Pat12-A	Adjacent normal	73
+4	Pat13-A	Adjacent normal	25
+4	Pat10-A	Adjacent normal	24
+4	Pat10-B	Cancer	20
+4	Pat12-B	Cancer	10
+4	Pat08-A	Adjacent normal	4
+4	Pat08-B	Cancer	4
+4	Pat02-A	Adjacent normal	3
+4	Pat16-A	Adjacent normal	3
+4	Pat04-A	Adjacent normal	2
+4	Pat07-A	Adjacent normal	2
+4	Pat03-A	Adjacent normal	1
+4	Pat04-B	Cancer	1
+4	Pat11-B	Cancer	1
+4	Pat22-A	Adjacent normal	1
+5	Pat01-A	Adjacent normal	25
+5	Pat17-A	Adjacent normal	10
+5	Pat01-B	Cancer	7
+5	Pat02-A	Adjacent normal	3
+5	Pat04-A	Adjacent normal	2
+5	Pat06-A	Adjacent normal	2
+5	Pat10-A	Adjacent normal	2
+5	Pat21-A	Adjacent normal	2
+5	Pat02-B	Cancer	1
+5	Pat03-A	Adjacent normal	1
+5	Pat03-B	Cancer	1
+5	Pat04-B	Cancer	1
+5	Pat07-B	Cancer	1
+5	Pat08-A	Adjacent normal	1
+5	Pat08-B	Cancer	1
+5	Pat13-A	Adjacent normal	1
+5	Pat23-A	Adjacent normal	1
+6	Pat03-B	Cancer	49
+6	Pat02-A	Adjacent normal	2
+6	Pat02-B	Cancer	1
+6	Pat13-A	Adjacent normal	1
+6	Pat16-A	Adjacent normal	1
+6	Pat19-B	Cancer	1
+6	Pat23-A	Adjacent normal	1
+7	Pat12-B	Cancer	39
+7	Pat08-A	Adjacent normal	1
+7	Pat10-B	Cancer	1
+8	Pat02-A	Adjacent normal	4
+8	Pat06-B	Cancer	4
+8	Pat12-B	Cancer	4
+8	Pat06-A	Adjacent normal	3
+8	Pat01-B	Cancer	2
+8	Pat03-B	Cancer	2
+8	Pat08-A	Adjacent normal	2
+8	Pat08-B	Cancer	2
+8	Pat13-A	Adjacent normal	2
+8	Pat04-B	Cancer	1
+8	Pat05-B	Cancer	1
+8	Pat07-B	Cancer	1
+8	Pat09-A	Adjacent normal	1
+8	Pat12-A	Adjacent normal	1
+9	Pat08-B	Cancer	10
+9	Pat06-B	Cancer	9
+9	Pat05-B	Cancer	4
+9	Pat07-B	Cancer	3
+9	Pat01-A	Adjacent normal	1
+9	Pat10-B	Cancer	1
+9	Pat20-A	Adjacent normal	1
+9	Pat23-A	Adjacent normal	1
+10	Pat14-B	Cancer	20
+10	Pat06-B	Cancer	1
+10	Pat12-B	Cancer	1
+11	Pat17-A	Adjacent normal	8
+11	Pat16-A	Adjacent normal	4
+11	Pat10-A	Adjacent normal	1
+11	Pat11-A	Adjacent normal	1
+11	Pat16-B	Cancer	1

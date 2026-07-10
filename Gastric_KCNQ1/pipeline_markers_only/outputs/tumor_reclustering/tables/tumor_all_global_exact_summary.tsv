@@ -1,0 +1,6 @@
+metric	value
+n_cells	1408
+n_global_tumor_clusters	2
+global_tumor_clusters	13,3
+n_reclustered_clusters	12
+variable_features	1031

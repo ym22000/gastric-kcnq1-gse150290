@@ -1,0 +1,3 @@
+gene	dataset	n_cells	n_positive_cells	pct_positive_cells	total_raw_transcripts	mean_raw_counts_per_cell	median_raw_counts_per_cell	mean_raw_counts_positive_cells	median_raw_counts_positive_cells	max_raw_count	mean_log_normalized_expression
+KCNE3	Global non-immune t-SNE	13022	4000	30.717247734603	6875	0.527952695438489	0	1.71875	1	12	0.319715474401207
+KCNE3	Tumor-only t-SNE	1408	109	7.74147727272727	139	0.0987215909090909	0	1.27522935779817	1	4	0.0734908457751163

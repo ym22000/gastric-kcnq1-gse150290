@@ -1,0 +1,8 @@
+metric	value
+n_selected_cells	13022
+n_reference_cells	579
+reference_fraction	0.0444632160958378
+reference_adjacent_fraction	1
+monocyte_score_q90_threshold	0.816469977496543
+epithelial_score_q75_threshold	1.95971289617105
+stromal_score_q75_threshold	0

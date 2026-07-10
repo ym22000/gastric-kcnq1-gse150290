@@ -1,0 +1,3 @@
+version	n_cells	intestinal_cells	diffuse_cells	mean_cnv_score	pct_cnv_high
+Current tumor map	1408	468	940	0.3344393194132	54.0656205420827
+Refined markers+CNV map	1614	813	801	0.344074952876752	79.8636926889715
