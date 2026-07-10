@@ -1,0 +1,29 @@
+Refined tumor map: KCNQ1, KCNE2, KCNE3
+
+KCNQ1
+positive_cells	108/1614 (6.69%)
+total_raw_transcripts	131
+mean_raw_counts_per_cell	0.0812
+mean_raw_counts_positive_cells	1.2130
+mean_log_normalized_expression	0.0404
+spearman_vs_intestinal	rho=0.2078	p=3.311e-17
+spearman_vs_diffuse	rho=-0.2377	p=3.642e-22
+
+KCNE2
+positive_cells	55/1614 (3.41%)
+total_raw_transcripts	77
+mean_raw_counts_per_cell	0.0477
+mean_raw_counts_positive_cells	1.4000
+mean_log_normalized_expression	0.0383
+spearman_vs_intestinal	rho=-0.0497	p=0.04578
+spearman_vs_diffuse	rho=-0.0132	p=0.5954
+
+KCNE3
+positive_cells	341/1614 (21.13%)
+total_raw_transcripts	695
+mean_raw_counts_per_cell	0.4306
+mean_raw_counts_positive_cells	2.0381
+mean_log_normalized_expression	0.1825
+spearman_vs_intestinal	rho=0.1983	p=8.897e-16
+spearman_vs_diffuse	rho=-0.3353	p=1.026e-43
+

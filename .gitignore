@@ -1,0 +1,20 @@
+# Large local inputs
+cache/
+raw_geo/
+deps/
+
+# External validation branches not kept in this cleaned dataset1 project
+Dataset_validation_externe/
+
+# R session noise
+.Rhistory
+.RData
+.Rproj.user/
+
+# Regenerable heavy objects
+**/objects/*.rds
+**/infercnv_run/
+
+# Optional local scratch files
+*.tmp
+*.bak

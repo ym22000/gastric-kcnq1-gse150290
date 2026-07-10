@@ -1,0 +1,9 @@
+metric	value
+current_tumor_cells	1402
+refined_tumor_cells	1614
+kept_from_current_tumor	1083
+added_by_markers_plus_cnv	531
+current_tumor_cnv_high_pct	54.0656205420827
+refined_tumor_cnv_high_pct	79.8636926889715
+epi_q75_current_tumor	1.40936511331291
+tumor_program_median_current_tumor	0.962927063050788

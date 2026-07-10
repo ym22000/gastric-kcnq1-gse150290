@@ -1,0 +1,3 @@
+dataset	n_cells	n_positive_cells	pct_positive_cells	total_raw_transcripts	mean_raw_counts_per_cell	median_raw_counts_per_cell	mean_raw_counts_positive_cells	median_raw_counts_positive_cells	max_raw_count	mean_log_normalized_expression
+Global non-immune t-SNE	13022	1271	9.7604054676701	1507	0.115727230840117	0	1.18568056648308	1	6	0.0830408721664163
+Tumor-only t-SNE	1408	39	2.76988636363636	41	0.0291193181818182	0	1.05128205128205	1	2	0.0257262699400776
