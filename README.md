@@ -12,6 +12,10 @@ Source study:
 
 ![GSE150290 overview](GC_dataset1_KCN_intestinal_diffuse_removed-1.png)
 
+## Biological context
+
+This side project, conducted as part of my Master’s 1 bioinformatics internship, is part of the team’s broader research aimed at understanding how ion channels contribute to epithelial homeostasis, cellular plasticity, and tumor progression in gastrointestinal cancers. The work of Raphaël Rapetti-Mauss and his team has shown that ion channels are not only transport proteins but also regulators of differentiation, signaling, and cancer-related phenotypes, particularly epithelial organization and programs associated with the Wnt/β-catenin pathway. In this context, studying the `KCNQ1` (and `KCNE2` and `KCNE3`) genes in gastric cancer at single-cell resolution is relevant for determining whether these genes are linked to specific malignant epithelial states, particularly depending on whether the tumor is intestinal-type or diffuse-type. This would also be consistent with the known role of `KCNQ1` in epithelial organization. Indeed, work from Raphaël Rapetti-Mauss and his team showed that `KCNQ1` helps maintain an epithelial differentiated state, whereas its inhibition or loss favors β-catenin redistribution, reduced epithelial integrity, and a more proliferative phenotype. Therefore, finding higher `KCNQ1` expression in intestinal-type tumor cells would be biologically coherent with a more epithelial and differentiated program ([10.1073/pnas.1702913114](https://doi.org/10.1073/pnas.1702913114)).
+
 ## Folder structure
 
 - `bibliography/`
