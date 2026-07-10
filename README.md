@@ -1,8 +1,16 @@
 # Gastric_KCNQ1
 
-This folder contains the gastric single-cell analysis kept for `dataset 1` only, based on `GSE150290`.
+This repository contains a single-cell RNA-seq analysis based on `GSE150290`, performed in the context of the team working on the regulation of ion channels in cancer, and more specifically around the gastric cancer questions explored in Raphaël Rapetti-Mauss' group.
 
-The question was to test whether `KCNQ1`, `KCNE2`, and `KCNE3` are associated with a broad intestinal-versus-diffuse tumor axis in gastric cancer.
+The aim of this analysis was to test whether `KCNQ1`, `KCNE2`, and `KCNE3` are associated with a broad intestinal-versus-diffuse tumor axis in gastric cancer.
+
+Source study:
+
+- Kim J, Park C, Kim KH, et al. *Single-cell analysis of gastric pre-cancerous and cancer lesions reveals cell lineage diversity and intratumoral heterogeneity*. **npj Precision Oncology**. 2022;6:9.
+- DOI: [10.1038/s41698-022-00251-1](https://doi.org/10.1038/s41698-022-00251-1)
+- GEO: `GSE150290`
+
+![GSE150290 overview](GC_dataset1_KCN_intestinal_diffuse_removed-1.png)
 
 ## Folder structure
 
@@ -11,9 +19,9 @@ The question was to test whether `KCNQ1`, `KCNE2`, and `KCNE3` are associated wi
 - `pipeline_markers_only/`
   Main analysis branch.
 - `pipeline_markers_plus_cnv/`
-  Same dataset with an additional CNV-based refinement step.
+  Same analysis with an additional CNV-based refinement step.
 - `cache/`
-  Processed GEO matrices used in the main workflow.
+  Processed GEO matrices used in the workflow.
 - `raw_geo/`
   Raw GEO files kept locally for traceability and CNV reruns.
 - `deps/`
@@ -23,14 +31,14 @@ The question was to test whether `KCNQ1`, `KCNE2`, and `KCNE3` are associated wi
 
 The workflow was reproduced as closely as possible from the paper using the parameters reported in the article and supplementary methods.
 
-The analysis was done in two branches:
+Two complementary branches were used:
 
 ### 1. `pipeline_markers_only`
 
 - build the global non-immune atlas from the processed GEO matrices
 - identify the broad tumor compartment
 - re-cluster tumor cells with paper-like Seurat settings
-- organize tumor cells along an intestinal-versus-diffuse axis
+- define a broad intestinal-versus-diffuse tumor axis
 - project `KCNQ1`, `KCNE2`, and `KCNE3`
 
 ### 2. `pipeline_markers_plus_cnv`
