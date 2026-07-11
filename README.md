@@ -1,8 +1,8 @@
 # Gastric_KCNQ1
 
-This repository contains a single-cell RNA-seq analysis based on `GSE150290`, performed in the context of the team working on the regulation of ion channels in cancer, and more specifically around the gastric cancer questions explored in Raphaël Rapetti-Mauss' group.
+This repository contains a single-cell RNA-seq analysis based on `GSE150290`, performed in the context of the team working on the regulation of ion channels in cancer, and more specifically around the gastric cancer questions explored in Raphaël Rapetti-Mauss' team.
 
-The aim of this analysis was to test whether `KCNQ1`, `KCNE2`, and `KCNE3` are associated with a broad intestinal-versus-diffuse tumor axis in gastric cancer.
+The aim of this analysis was to test whether `KCNQ1`, `KCNE2`, and `KCNE3` are associated with a broad intestinal/diffuse tumor axis in gastric cancer.
 
 Source study:
 
