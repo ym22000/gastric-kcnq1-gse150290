@@ -2,7 +2,7 @@
 
 ## Internship context
 
-These analyses were performed during a six-month Master 1 bioinformatics internship in the Regulations of Ion Channel in Cancer laboratory. The team studies how ion channels contribute to cancer biology, with projects focused on PDAC and gastric cancer. The laboratory is part of Universite Cote d'Azur and affiliated with CNRS and Inserm: UMR 7277 (CNRS), U 1091 (Inserm), tutelle Universite Cote d'Azur (UniCA).
+These analyses were performed during a six-month Master 1 bioinformatics internship in the Regulations of Ion Channel in Cancer laboratory. The team studies how ion channels contribute to cancer biology, with projects focused on PDAC and gastric cancer. The laboratory is part of Universite Cote d'Azur and affiliated with CNRS and Inserm.
 
 This repository contains a single-cell RNA-seq analysis based on `GSE150290`, performed in the context of the team working on the regulation of ion channels in cancer, and more specifically around the gastric cancer questions explored in Raphael Rapetti-Mauss' team.
 
