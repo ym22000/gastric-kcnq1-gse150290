@@ -58,7 +58,7 @@ Two complementary branches were used:
 
 ## Pipeline flowchart
 
-![GSE150290 pipeline flowchart](pipeline_markers_plus_cnv/outputs/final/figures/GSE150290_dataset1_pipeline_flowchart_A4.png)
+![GSE150290 pipeline flowchart](GSE150290_dataset1_pipeline_flowchart.png)
 
 ## Paper fidelity
 
