@@ -2,11 +2,11 @@
 
 ## Internship context
 
-These analyses were performed during a six-month Master 1 bioinformatics internship in the Regulations of Ion Channel in Cancer laboratory. The team studies how ion channels contribute to cancer biology, with projects focused on PDAC and gastric cancer. The laboratory is part of Universite Cote d'Azur and affiliated with CNRS and Inserm.
+These analyses were made during a six-month Master 1 bioinformatics internship in the Regulations of Ion Channel in Cancer laboratory. The team studies how ion channels contribute to cancer biology, with projects focused on PDAC and gastric cancer. The laboratory is part of Universite Cote d'Azur and affiliated with CNRS and Inserm.
 
-This repository contains a single-cell RNA-seq analysis based on `GSE150290`, performed in the context of the team working on the regulation of ion channels in cancer, and more specifically around the gastric cancer questions explored in Raphael Rapetti-Mauss' team.
+This repository contains a single-cell RNA-seq analysis based on `GSE150290`, coded in the context of the team working on the regulation of ion channels in cancer, and more specifically around the gastric cancer questions explored in Raphael Rapetti-Mauss' team.
 
-The aim of this analysis was to test whether `KCNQ1`, `KCNE2`, and `KCNE3` are associated with a broad intestinal/diffuse tumor axis in gastric cancer.
+Basically, the aim of this analysis was to test whether `KCNQ1`, `KCNE2`, and `KCNE3` are associated with a broad intestinal/diffuse tumor axis in gastric cancer.
 
 Source study:
 
@@ -18,7 +18,7 @@ Source study:
 
 ## Biological context
 
-This side project, conducted as part of my Master 1 bioinformatics internship, is part of the team's broader research aimed at understanding how ion channels contribute to epithelial homeostasis, cellular plasticity, and tumor progression in gastrointestinal cancers. The work of Raphael Rapetti-Mauss and his team has shown that ion channels are not only transport proteins but also regulators of differentiation, signaling, and cancer-related phenotypes, particularly epithelial organization and programs associated with the Wnt/beta-catenin pathway. In this context, studying the `KCNQ1` (and `KCNE2` and `KCNE3`) genes in gastric cancer at single-cell resolution is relevant for determining whether these genes are linked to specific malignant epithelial states, particularly depending on whether the tumor is intestinal-type or diffuse-type. This would also be consistent with the known role of `KCNQ1` in epithelial organization. Indeed, work from Raphael Rapetti-Mauss and his team showed that `KCNQ1` helps maintain an epithelial differentiated state, whereas its inhibition or loss favors beta-catenin redistribution, reduced epithelial integrity, and a more proliferative phenotype. Therefore, finding higher `KCNQ1` expression in intestinal-type tumor cells would be biologically coherent with a more epithelial and differentiated program ([10.1073/pnas.1702913114](https://doi.org/10.1073/pnas.1702913114)).
+This side project, as introduced, is part of the team's broader research aimed at understanding how ion channels contribute to epithelial homeostasis, cellular plasticity, and tumor progression in gastrointestinal cancers. The work of Raphael Rapetti-Mauss and his team has shown that ion channels are not only transport proteins but also regulators of differentiation, signaling, and cancer-related phenotypes, particularly epithelial organization and programs associated with the Wnt/beta-catenin pathway. In this context, studying the `KCNQ1` (and `KCNE2` and `KCNE3`) genes in gastric cancer at single-cell resolution is relevant for determining whether these genes are linked to specific malignant epithelial states, particularly depending on whether the tumor is intestinal-type or diffuse-type. This would also be consistent with the known role of `KCNQ1` in epithelial organization. Indeed, work from Raphael Rapetti-Mauss and his team showed that `KCNQ1` helps maintain an epithelial differentiated state, whereas its inhibition or loss favors beta-catenin redistribution, reduced epithelial integrity, and a more proliferative phenotype. Therefore, finding higher `KCNQ1` expression in intestinal-type tumor cells would be biologically coherent with a more epithelial and differentiated program ([10.1073/pnas.1702913114](https://doi.org/10.1073/pnas.1702913114)).
 
 ## Folder structure
 
